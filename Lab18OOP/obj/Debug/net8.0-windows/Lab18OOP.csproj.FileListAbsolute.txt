@@ -1,0 +1,16 @@
+D:\Нова папка\Lab18OOP\bin\Debug\net8.0-windows\Lab18OOP.exe
+D:\Нова папка\Lab18OOP\bin\Debug\net8.0-windows\Lab18OOP.deps.json
+D:\Нова папка\Lab18OOP\bin\Debug\net8.0-windows\Lab18OOP.runtimeconfig.json
+D:\Нова папка\Lab18OOP\bin\Debug\net8.0-windows\Lab18OOP.dll
+D:\Нова папка\Lab18OOP\bin\Debug\net8.0-windows\Lab18OOP.pdb
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.Form1.resources
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.AssemblyInfo.cs
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.dll
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\refint\Lab18OOP.dll
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.pdb
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\Lab18OOP.genruntimeconfig.cache
+D:\Нова папка\Lab18OOP\obj\Debug\net8.0-windows\ref\Lab18OOP.dll
